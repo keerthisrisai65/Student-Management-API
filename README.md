@@ -83,4 +83,3 @@ Using serializers in Django REST Framework
 Database operations using Django ORM
 Handling API requests and responses
 Basic backend project structure
-vv
